@@ -2,6 +2,7 @@ package com.blz.moodanalyzer;
 
 public class MoodAnalyzer {
 
+	//UC_R
 	String message;
 	public MoodAnalyzer() {
 		super();
